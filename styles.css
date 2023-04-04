@@ -1,0 +1,156 @@
+.top-img{
+  position: relative;
+  left: 650px;
+}
+.top{
+  background-color: #EBB02D;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  /* */
+  width: 100%;
+  height: 90%;
+  padding-top: 100px;
+}
+body{
+  margin: 0;
+}
+.logo{
+  position: absolute;
+  left: 80px;
+  top: 30px;
+  height: 50px;
+  background-color: #EBB02D;
+
+}
+.Bhouse{
+position: relative;
+bottom:600px;
+left:120px;
+color: #8D7B68;
+}
+.Bweek{
+position: relative;
+left: 140px;
+bottom: 400px;
+font-size: 80px;
+color: #4F200D;
+font-family: 'Alkatra', cursive;
+font-weight: bolder;
+}
+.week{
+  position: relative;
+  left: -200px;
+  bottom: 0px;
+  top: 70px;
+
+}
+.PopularBurger{
+  position: absolute;
+  top:600px;
+  left: 120px;
+  width: 500px;
+}
+.fun{
+  position: relative;
+  left: 650px;
+  top:600px;
+  width: 500px;
+}
+.fresh
+{
+  position: relative;
+  left: 150px;
+  top:790px;
+  width: 500px;
+}
+.mid{
+  position: relative;
+  top: 820px;
+  left: 490px;
+}
+.always{
+  color:#4F200D;
+  font-size: 15px;
+  font-weight: bold;
+  background-color: #EBB02D;
+  width: 15%;
+}
+.Choose{
+  color:black;
+  font-size: 45px;
+  font-weight: bold;
+  position:relative;
+  left: -75px;
+  bottom: 40px;
+}
+.B1{
+  position: absolute;
+  left:-450px;
+}
+.B2{
+  position: absolute;
+  left:-30px;
+  height: 300px;
+}
+.B3{
+  position: absolute;
+  left:340px;
+}
+.button1{
+  background-color: red;
+  border-color: red;
+  position: absolute;
+  left:-320px;
+  top: 500px;
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+}
+.button2{
+  background-color: red;
+  border-color: red;
+  position: absolute;
+  left:70px;
+  top: 500px;
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+}
+.button3{
+  background-color: red;
+  border-color: red;
+  position: absolute;
+  left:470px;
+  top: 500px;
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+}
+.bottom{
+  position: relative;
+  left:600px;
+  top: 1300px;
+}
+.d{
+  position: absolute;
+  font-size: 40px;
+  top: 1600px;
+  left: 70px;
+}
+.up{
+  position: absolute;
+  font-size: 40px;
+  top: 1640px;
+  left: 70px;
+  font-weight: bolder;
+  color:#4F200D;
+}
+.lorem{
+  position: absolute;
+  font-size: 50px;
+  top: 1800px;
+  left: 70px;
+
+
+}
